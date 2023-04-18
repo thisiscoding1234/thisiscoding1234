@@ -1,16 +1,218 @@
 ### Hi there 👋
 
-<!--
-**thisiscoding1234/thisiscoding1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## chat GPT raps
 
-Here are some ideas to get you started:
+#### Linux Mint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Verse 1:
+I'm on my computer, looking for the best
+
+Operating system that can pass the test
+
+I need something smooth, something minty fresh
+
+That's why I'm choosing Linux Mint, nothing less
+
+
+##### Chorus:
+Linux Mint, GNU userland
+
+Open source, it's in high demand
+
+No need to worry about malware or hacks
+
+With this OS, I got my back
+
+##### Verse 2:
+I got the GNU userland, it's free as can be
+
+No more paying for software, that's not for me
+
+The terminal is my friend, I can do anything
+
+From installing packages to editing things
+
+##### Chorus:
+Linux Mint, GNU userland
+
+Open source, it's in high demand
+
+No need to worry about malware or hacks
+
+With this OS, I got my back
+
+##### Verse 3:
+I love the customization, it's all up to me
+
+From the desktop to the theme, it's easy to see
+
+No more bloatware, no more lag
+
+With Linux Mint, my computer's not a drag
+
+##### Chorus:
+Linux Mint, GNU userland
+
+Open source, it's in high demand
+
+No need to worry about malware or hacks
+
+With this OS, I got my back
+
+##### Verse 4:
+I'm part of the community, that's what I love
+
+Sharing knowledge, and helping out, that's enough
+
+We all have different goals, but we share one thing
+
+The love for Linux Mint, and the freedom it brings
+
+##### Chorus:
+Linux Mint, GNU userland
+
+Open source, it's in high demand
+
+No need to worry about malware or hacks
+
+With this OS, I got my back
+
+##### Outro:
+So if you want a system that's fast and secure
+
+With Linux Mint, you'll always be sure
+
+The GNU userland is the way to go
+
+Join the open source revolution, let's make it grow!
+
+#### macos
+
+##### Verse 1:
+I'm on my Mac, feeling so depressed
+
+The system's slow, it's just a mess
+
+I need something new, something that's clean
+
+But all I've got is this damn machine
+
+##### Chorus:
+MacOS, it's such a drag
+
+Locked down, can't customize or brag
+
+No freedom, just a walled garden
+
+I hate my life, it's such a burden
+
+##### Verse 2:
+I wish I had Linux Mint, with GNU userland
+
+Open source, it's in high demand
+
+No more Apple's control, no more pain
+
+I want to be free, once again
+
+##### Chorus:
+MacOS, it's such a drag
+
+Locked down, can't customize or brag
+
+No freedom, just a walled garden
+
+I hate my life, it's such a burden
+
+##### Verse 3:
+I'm tired of paying so much for this junk
+
+And I'm tired of being in this funk
+
+I need a change, I need to break free
+
+But all I've got is this 
+Mac, you see
+
+##### Chorus:
+MacOS, it's such a drag
+
+Locked down, can't customize or brag
+
+No freedom, just a walled garden
+
+I hate my life, it's such a burden
+
+##### Outro:
+I hate my life, I hate my Mac
+
+I wish I had something better, that's a fact
+
+But for now, I'm stuck in this hell
+
+Until I find a way to break this spell.
+
+#### Windows
+
+##### Verse 1:
+I'm on my Windows, ready to go
+
+Got my Powertoys, it's time to show
+
+I need something fast, something that's slick
+
+That's why I'm choosing Windows, it's the pick
+
+##### Chorus:
+Windows, with Powertoys
+
+My workflow's fast, no noise
+
+From the snap tools to the key remap
+
+It's the OS that's got my back
+
+##### Verse 2:
+I've got my Powertoys, they're so fine
+
+They boost my productivity, it's no lie
+
+I can customize it, make it my own
+
+From the fancy zones to the power rename
+
+##### Chorus:
+Windows, with Powertoys
+
+My workflow's fast, no noise
+
+From the snap tools to the key remap
+
+It's the OS that's got my back
+
+##### Verse 3:
+I've got the power of Windows, it's my tool
+
+From gaming to coding, it's never dull
+
+I've got the Powertoys, they're so great
+
+From the color picker to the fancy taskbar
+
+##### Chorus:
+Windows, with Powertoys
+
+My workflow's fast, no noise
+
+From the snap tools to the key remap
+
+It's the OS that's got my back
+
+##### Outro:
+So if you need an OS, just give it a try
+
+Windows with Powertoys, it's no lie
+
+It's the OS that will boost your game
+
+And it's the one that will keep you sane.
