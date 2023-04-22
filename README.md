@@ -216,3 +216,68 @@ Windows with Powertoys, it's no lie
 It's the OS that will boost your game
 
 And it's the one that will keep you sane.
+
+#### ChromeOS
+
+##### Verse 1:
+I'm on my Chromebook, feeling so fly
+
+ChromeOS is my OS, it's my digital high
+
+I need something simple, something that's light
+
+That's why I'm choosing ChromeOS, it's just right
+
+##### Chorus:
+ChromeOS, it's so sweet
+
+From the browser to the apps, it's a treat
+
+No need to worry 'bout the bloat
+
+It's the OS that keeps me afloat
+
+##### Verse 2:
+I've got the Chromebook, it's looking sleek
+
+A cloud-based system, it's so unique
+
+I can customize it, make it my own
+
+From the settings to the wallpaper tone
+
+##### Chorus:
+ChromeOS, it's so sweet
+
+From the browser to the apps, it's a treat
+
+No need to worry 'bout the bloat
+
+It's the OS that keeps me afloat
+
+##### Verse 3:
+I've got the power of ChromeOS, it's my tool
+
+From browsing to streaming, it's never dull
+
+I've got the web store, it's so neat
+
+From the games to the productivity suite
+
+##### Chorus:
+ChromeOS, it's so sweet
+
+From the browser to the apps, it's a treat
+
+No need to worry 'bout the bloat
+
+It's the OS that keeps me afloat
+
+##### Outro:
+So if you need an OS, just give it a try
+
+ChromeOS, it's worth the buy
+
+It's the OS that will make you smile
+
+And it's the one that will keep you on the dial.
