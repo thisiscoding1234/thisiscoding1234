@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://api.dicebear.com/6.x/icons/svg?seed=thisiscoding1234&scale=120&radius=50&backgroundColor=ffcc80,90caf9&backgroundType=gradientLinear&backgroundRotation=360,-360" alt="avatar" style="height:5%;width:5%;" />
 
 ## chat GPT raps
 
