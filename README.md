@@ -6,11 +6,10 @@
   <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </picture>
 
-<br/>
-
+![](https://github-profile-trophy.vercel.app/?username=thisiscoding1234&no-bg=true&no-frame=true&row=3&column=3)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-light&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-light">
   <img alt="GitHub streak!" src="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&transparent&hide_border=true">
 </picture>
