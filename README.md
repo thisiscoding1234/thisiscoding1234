@@ -11,6 +11,18 @@
   <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=solarized-dark&size_weight=0.5&count_weight=0.5&layout=donut">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=solarized-light&size_weight=0.5&count_weight=0.5&layout=donut">
+  <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-light">
+  <img alt="GitHub streak!" src="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&transparent&hide_border=true">
+</picture>
+
 <br/>
 
 <picture>
@@ -19,11 +31,4 @@
 </picture>
 
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-light">
-  <img alt="GitHub streak!" src="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&transparent&hide_border=true">
-</picture>
-
 </p>
