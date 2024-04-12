@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 <p align="center">
-<img src="https://api.dicebear.com/8.x/shapes/svg?seed=thisiscoding1234&backgroundColor=f88c49,ffdfbf&backgroundType=gradientLinear&backgroundRotation=360,-360&shape1=ellipseFilled,polygonFilled,rectangleFilled,ellipse,line,polygon,rectangle&shape1Color=0a5b83,1c799f,f1f4dc,69d2e7,f88c49&shape2=ellipseFilled,line,polygonFilled,rectangleFilled,rectangle,polygon,ellipse" alt="My Avatar" style="width:25%; height:25%;"/>
+<img src="https://api.dicebear.com/8.x/shapes/svg?seed=thisiscoding1234&backgroundColor=f88c49,ffdfbf&backgroundType=gradientLinear&backgroundRotation=360,-360&shape1=ellipseFilled,polygonFilled,rectangleFilled,ellipse,line,polygon,rectangle&shape1Color=0a5b83,1c799f,f1f4dc,69d2e7,f88c49&shape2=ellipseFilled,line,polygonFilled,rectangleFilled,rectangle,polygon,ellipse&radius=50" alt="My Avatar" style="width:25%; height:25%;"/>
 
 <br/>
 
