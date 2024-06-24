@@ -23,8 +23,6 @@
   <img alt="GitHub streak!" src="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&transparent&hide_border=true">
 </picture>
 
-<br/>
-
 <picture>
   <source srcset="https://github-profile-trophy.vercel.app/?username=thisiscoding1234&no-bg=true&no-frame=true&row=3&column=3">
   <img scr="https://github-profile-trophy.vercel.app/?username=thisiscoding1234&no-bg=true&no-frame=true&row=3&column=3">
