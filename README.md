@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=astro,html,css,blender,bootstrap,cloudflare,discord,figma,git,github,gitlab,linux,mint,py,svg,vscode&theme=light&perline=4"/>
+<img src="https://skillicons.dev/icons?i=astro,html,css,blender,bootstrap,discord,cloudflare,figma,git,github,gitlab,linux,mint,py,svg,vscode&theme=light&perline=4"/>
 </p>
 
 <picture>
