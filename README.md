@@ -5,6 +5,10 @@
 
 <br/>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=astro,html,css,blender,bootstrap,cloudflare,discord,figma,git,github,gitlab,linux,mint,py,svg,vscode&theme=light&perline=4"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=solarized-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=solarized-light&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
